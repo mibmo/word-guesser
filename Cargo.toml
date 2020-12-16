@@ -3,6 +3,12 @@ name = "word-guesser"
 version = "0.1.0"
 authors = ["mib <mib@mib.dev>"]
 edition = "2018"
+license = "MIT"
+description = "Simple word-guessing game"
+repository = "https://github.com/mibmo/word-guesser"
+readme = "README.md"
+keywords = ["game"]
+categories = ["game"]
 
 [dependencies]
 console = "0.13.0"

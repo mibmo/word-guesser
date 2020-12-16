@@ -1,6 +1,6 @@
 # Word-guesser
 
-### Installing to path
+### Installing
 ```
 cargo install word-guesser
 ```

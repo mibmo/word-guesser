@@ -1,6 +1,6 @@
 [package]
 name = "word-guesser"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["mib <mib@mib.dev>"]
 edition = "2018"
 license = "MIT"

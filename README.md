@@ -12,3 +12,4 @@ cargo install word-guesser
 Since this is just a quick 30-min coding exercise,
 if there's a legitimate reason (such as a ML crate) needing this crate name,
 send me a message on [Github](https://github.com/mibmo).
+I'm not looking to squat crate names! :)
